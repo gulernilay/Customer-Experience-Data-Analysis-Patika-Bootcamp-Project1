@@ -1,7 +1,5 @@
 # Customer-Experience-Data-Analysis-Patika-Bootcamp-Project1
 
-# Customer Experience Dataset – EDA & Data Manipulation Report
-
 ## 📦 Dataset Description
 
 - **Kaynak:** [Kaggle - Customer Experience Dataset](https://www.kaggle.com/datasets/ziya07/customer-experience-dataset/data)
@@ -202,5 +200,3 @@ df[df['Location_Encoded'].isin(top_locations)].groupby('Location_Encoded')['Rete
 
 ---
 
-> Daha fazla görselleştirme, kod örneği veya insight eklemek istersen, bu README’yi kendi notların ve iş hedeflerine göre güncelleyebilirsin!
-> İstersen _Jupyter notebook_’a uygun markdown blokları halinde veya PDF raporu olarak da yapılandırabilirim.
